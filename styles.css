@@ -1,0 +1,72 @@
+body 
+{
+    background-color: rgb(3, 4, 17);
+    color: white;
+}
+header
+{
+    text-align: center;
+}
+#h1
+{
+    color: cyan;
+}
+#h3
+{
+    color: lightgreen;
+}
+#info
+{
+    text-align: justify;
+    color: lightgrey;
+}
+#Aboutme
+{
+    color: yellow;
+}
+#study
+{
+    text-align: justify;
+}
+#skills
+{
+    color: yellow;
+}
+#skillsinfo
+{
+    color: lightblue;
+}
+#projects
+{
+    color: yellow;
+}
+#projectsinfo
+{
+    color: lightgreen;
+}
+#Education
+{
+    color: yellow;
+}
+#Experience
+{
+    color: yellow;
+}
+#Expreienceinfo
+{
+    color: lightblue;
+}
+#contact
+{
+    color: yellow;
+}
+#footer
+{
+    text-align: center;
+    color: lightgray;
+}
+hr {
+    border: none;             
+    height: 4px;              
+    background-color: red;    
+}
